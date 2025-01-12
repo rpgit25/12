@@ -1,0 +1,5 @@
+#EXTM3U catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" url-tvg="http://epg.one/epg.xml.gz"
+#EXTINF:-1 group-title="Радио" tvg-id="no_epg_radio" tvg-logo="https://online-red.me/131/98/uploads/posts/2018-07/1530541060_naftalin-fm.png", Нафталин FM
+https://radiorecord.hostingradio.ru/naft64.aacp
+#EXTINF:-1 group-title="Радио" tvg-id="no_epg_radio" tvg-logo="https://www.radioc.ru/upload/iblock/d6f/d6f67150291bc66f20405e5319b46431.png", Радио Си
+https://online.radioc.ru/radioc_aacplus
